@@ -1,0 +1,30 @@
+h1
+{
+  font-style: normal;
+  font-family: 'Lobster', cursive;
+  font-size: 5rem;
+  padding-top: 50px;
+  text-align: center;
+  color: #cf7500;
+}
+h2
+{
+  color:#f4f4f4;
+  font-family: 'Secular One', sans-serif;
+}
+.col{
+  text-align: center;
+  padding-top: 50px;
+}
+footer{
+  text-align: center;
+  padding: 50px;
+  color: black;
+  font-style: oblique;
+  font-weight: bold;
+  background-color: #557571;
+}
+.container-fluid{
+  background-color: #1a1c20;
+  padding-bottom: 50px;
+}
